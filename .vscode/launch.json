@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "ofc_analyzer chiahuac 2023",
+      "type": "python",
+      "request": "launch",
+      "program": "ofc_analyzer.py",
+      "args": ["-a", "${workspaceFolder}\\workdir\\chiahuac2023ofc.json"],
+      "justMyCode": true
+    }
+  ]
+}
